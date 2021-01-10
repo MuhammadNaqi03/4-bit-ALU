@@ -9,6 +9,6 @@ flags. Carry is activated when the result of addition overflows. Sign is activat
 is greater than register A. Zero is activated when the result of an operation is zero.
 
 This was a group project. My heartfelt gratitude to -
-MD. SIFAT IBN AWLAD &
-ORKO DUTTA
+MD. SIFAT IBN AWLAD &\
+ORKO DUTTA\
 For their amazing contributions.

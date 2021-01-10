@@ -8,7 +8,7 @@ operation to be performed. The output is of 4 bits. The output also contains car
 flags. Carry is activated when the result of addition overflows. Sign is activated when Register B
 is greater than register A. Zero is activated when the result of an operation is zero.
 
-This was a group project. My heartfelt gratitude to -
+This was a group project. My heartfelt gratitude to -\
 MD. SIFAT IBN AWLAD &\
 ORKO DUTTA\
 For their amazing contributions.
